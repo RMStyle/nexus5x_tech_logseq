@@ -1,0 +1,45 @@
+## Level 1
+	- Ablative Plating
+	- Centralized Command
+	- Crypto-Siphoning
+	- Mineral Probes
+	- Zero G Barracks
+- ## Level 2
+	- Deep Space Defenses
+	- Mining Drones
+	- Nanite Augementation
+	- Personal Camouflage
+	- Repulsors
+- ## Level 3
+	- Advamces Damage Control
+	- Automated Factories
+	- Automated Space Docks
+	- Nano Seperators
+	- Shield Projectors
+- ## Level 4
+	- Atmospheric Shielding
+	- Genetic Alteration
+	- Mining Guilds
+	- Plasteel Materials
+	- Reflective Armor
+- ## Level 5
+	- Artificial Learning
+	- Construction Templates
+	- Crew Implants
+	- Exotic Materials
+	- Kinetic Artillery
+- ## Level 6
+	- Advanced Robotics
+	- Mega Structures
+	- Neutronium Armor
+	- Quantum Manifolds
+- ## Level 7
+	- Advanced Terraforming
+	- Gauss Cannon
+	- Nanite Bio Weapons
+	- Star Hold
+- ## Level 8
+	- Mega Assemby Systems
+	- Monolith Construction
+	- Phasic Shielding
+	- Sentient Androids
