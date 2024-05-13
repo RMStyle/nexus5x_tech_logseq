@@ -1,42 +1,42 @@
 ## Level 1
-	- Combat Computers
-	- Crainal Implants
-	- Hyperlane Breach
-	- Quantom Theory
-	- Sensor Drone
+	- [[Combat Computers]]
+	- [[Crainal Implants]]
+	- [[Hyperlane Breach]]
+	- [[Quantom Theory]]
+	- [[Sensor Drone]]
 - ## Level 2
-	- Advanced Navigation Computer
-	- Zero G Studies
+	- [[Advanced Navigation Computer]]
+	- [[Zero G Studies]]
 - ## Level 3
-	- Anti-Matter Explosives
-	- Cloaking
-	- Ion Thrusters
-	- Multi Dimensional Studies
-	- Survey Drones
+	- [[Anti-Matter Explosives]]
+	- [[Cloaking]]
+	- [[Ion Thrusters]]
+	- [[Multi Dimensional Studies]]
+	- [[Survey Drones]]
 - ## Level 4
-	- Advanced Fighters
-	- Disruptors
-	- Gravity Fields
-	- Space-Time Theory
-	- Sublight Thrusters
+	- [[Advanced Fighters]]
+	- [[Disruptors]]
+	- [[Gravity Fields]]
+	- [[Space-Time Theory]]
+	- [[Sublight Thrusters]]
 - ## Level 5
-	- Autonomous Ship Intellects
-	- FTL Processors
-	- Graviton Scanner
-	- Positronic Targeting
-	- Star Citadel
+	- [[Autonomous Ship Intellects]]
+	- [[FTL Processors]]
+	- [[Graviton Scanner]]
+	- [[Positronic Targeting]]
+	- [[Star Citadel]]
 - ## Level 6
-	- Heavy Plasma Cannons
-	- Jump Gates
-	- Light Plasma Cannons
-	- Self Replicating AI
+	- [[Heavy Plasma Cannons]]
+	- [[Jump Gates]]
+	- [[Light Plasma Cannons]]
+	- [[Self Replicating AI]]
 - ## Level 7
-	- Beam  Focus
-	- Gravitation Explosives
-	- Sentry Array
-	- Zero Point Reactor
+	- [[Beam  Focus]]
+	- [[Gravitation Explosives]]
+	- [[Sentry Array]]
+	- [[Zero Point Reactor]]
 - ## Level 8
-	- Galactical Naval Network
-	- Giga Cannon
-	- Hyperdrive
-	- Tachyon Lances
+	- [[Galactical Naval Network]]
+	- [[Giga Cannon]]
+	- [[Hyperdrive]]
+	- [[Tachyon Lances]]
