@@ -1,6 +1,4 @@
-- {{query (page-property :type "#Social")}}
-  query-properties:: [:page :type]
-- ## Level 1
+## Level 1
 	- [[Adaptive Administration]]
 	  id:: 664261bb-6888-4ca2-9915-42c1add39d07
 	- [[Compulsory Service]]

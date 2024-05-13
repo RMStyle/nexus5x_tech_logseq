@@ -1,4 +1,0 @@
-- Full Tech Lists
-	- [[Physics]]
-	- [[Nano]]
-	- [[Social]]

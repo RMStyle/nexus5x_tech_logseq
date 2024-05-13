@@ -422,7 +422,5 @@
  :feature/enable-journals? false
  :feature/enable-whiteboards? false
  :feature/enable-flashcards? false
- :default-home {:page "Home"}
- :publishing/all-pages-public? true
- :graph/settings {:orphan-pages? false
- :excluded-pages? false}}
+ :default-home {:page "home"}
+ :publishing/all-pages-public? true}
