@@ -36,11 +36,11 @@
 	- [[Haptic Holograms]]
 - ## Level 7
 	- [[Indoctrination]]
-	- [[Splendoir]]
+	- [[Splendor]]
 	- [[Voice of Council]]
 	- [[War Council]]
 - ## Level 8
 	- [[Ascendance]]
 	- [[Efficient Bureacracy]]
-	- [[Mandate of might]]
+	- [[Mandate of Might]]
 	- [[Rightful Overlord]]

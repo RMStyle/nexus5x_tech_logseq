@@ -1,5 +1,5 @@
 type:: #Social
 
-- description:: WIP
+- description:: Reduce the extra X cost to annex a neutral system by 50%
 - level:: 1
 - includes:: WIP

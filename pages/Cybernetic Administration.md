@@ -1,5 +1,5 @@
 type:: #Social
 
-- description:: WIP
+- description:: Reduces planet X upkeep by 50%.
 - level::  6
 - includes:: WIP

@@ -1,5 +1,5 @@
 type:: #Social
 
-- description:: WIP
+- description:: Reduces X penalty for hostile X in your systems by 50%.
 - level:: 4
 - includes:: WIP

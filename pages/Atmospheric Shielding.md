@@ -1,5 +1,5 @@
-type:: #Social
+type:: nano
 
 - description:: WIP
-- level:: 7
+- level:: 4
 - includes:: WIP

@@ -1,5 +1,5 @@
 type:: #Social
 
-- description:: WIP
+- description:: The [[Command]] Edict is now free.
 - level:: 5
 - includes:: WIP
