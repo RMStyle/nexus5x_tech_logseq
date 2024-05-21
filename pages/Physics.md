@@ -6,6 +6,9 @@
 	- [[Sensor Drone]]
 - ## Level 2
 	- [[Advanced Navigation Computer]]
+	- [[Cold Fusion Reactor]]
+	- [[Laser Canons]]
+	- [[Tachyon Scanner]]
 	- [[Zero G Studies]]
 - ## Level 3
 	- [[Anti-Matter Explosives]]
