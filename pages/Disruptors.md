@@ -1,5 +1,5 @@
 type:: #Physics
 
-- description:: WIP
+- description::
 - level:: 4
-- includes:: WIP
+- includes:: [[Disruptor Strike]]

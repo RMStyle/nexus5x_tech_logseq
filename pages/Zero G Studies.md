@@ -1,5 +1,5 @@
 type:: #Physics
 
-- description:: Gain 2 X stockpile after using the RESEARCH Edict.
+- description:: Gain 2 X stockpile after using the [[RESEARCH]] Edict.
 - level:: 2
-- includes:: WIP
+- includes:: [[Research Base]]

@@ -1,5 +1,5 @@
 type:: #Physics
 
-- description:: WIP
+- description::
 - level:: 3
-- includes:: WIP
+- includes:: [[Spectre]] [[Covert Insertion]]

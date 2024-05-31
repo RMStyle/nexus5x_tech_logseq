@@ -1,5 +1,5 @@
 type:: #Physics
 
-- description:: WIP
+- description::
 - level:: 1
-- includes:: WIP
+- includes:: [[Advanced Laboratory]]

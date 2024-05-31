@@ -1,0 +1,1 @@
+- Gain 30% X and 30% for this fleets next battle only
