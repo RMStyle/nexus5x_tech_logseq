@@ -1,5 +1,5 @@
 type:: nano
 
-- description:: WIP
+- description:: Capital Ships + X
 - level:: 1
-- includes:: WIP
+- includes::

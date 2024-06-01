@@ -1,5 +1,5 @@
 type:: #Physics
 
-- description:: WIP
+- description::
 - level:: 8
-- includes:: WIP
+- includes:: ???

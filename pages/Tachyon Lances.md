@@ -1,5 +1,5 @@
 type:: #Physics
 
-- description:: WIP
+- description:: Capital Ships: +4 X
 - level:: 8
-- includes:: WIP
+- includes:: [[Planet Killer]]
