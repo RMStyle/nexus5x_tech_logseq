@@ -1,5 +1,5 @@
 type:: #Physics
 
-- description:: WIP
+- description:: +15 X
 - level:: 6
-- includes:: WIP
+- includes:: AI Smear Campaign

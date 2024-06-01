@@ -1,5 +1,5 @@
 type:: #Physics
 
-- description:: WIP
+- description:: All RANGED ships: +1 X The Ranged Attack fleet action is free.
 - level:: 5
-- includes:: WIP
+- includes:: [[Fleet AI Core]]

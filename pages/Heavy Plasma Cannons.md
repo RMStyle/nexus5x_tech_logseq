@@ -1,5 +1,5 @@
 type:: #Physics
 
-- description:: WIP
+- description:: Capital Ships: +3 X
 - level:: 6
-- includes:: WIP
+- includes:: [[Gauss Cannon]]

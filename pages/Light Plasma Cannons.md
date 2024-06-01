@@ -1,5 +1,5 @@
 type:: #Physics
 
-- description:: WIP
+- description:: Raider Ships +3 X
 - level:: 6
-- includes:: WIP
+- includes:: [[Rapid Fire]]

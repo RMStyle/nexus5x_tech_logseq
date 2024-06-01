@@ -1,5 +1,5 @@
 type:: #Physics
 
-- description:: WIP
+- description:: Increases sensor range by 2.
 - level:: 5
-- includes:: WIP
+- includes:: [[Pre-Emptive Scan]]
