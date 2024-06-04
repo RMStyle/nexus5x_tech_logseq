@@ -1,4 +1,4 @@
-type:: nano
+type:: #Nano
 
 - description:: Capital Ships + X
 - level:: 1

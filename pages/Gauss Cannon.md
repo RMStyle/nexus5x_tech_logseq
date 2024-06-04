@@ -1,4 +1,4 @@
-type:: nano
+type:: #Nano
 
 - description:: WIP
 - level:: 7

@@ -4,3 +4,8 @@
 	- [[Physics]]
 	- [[Nano]]
 	- [[Social]]
+- {{query (property :type)}}
+  query-sort-by:: page
+  query-table:: true
+  query-sort-desc:: false
+  query-properties:: [:page :type]
