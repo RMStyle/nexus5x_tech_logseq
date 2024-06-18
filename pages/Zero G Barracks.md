@@ -1,5 +1,5 @@
 type:: #Nano
 
-- description:: WIP
+- description:: +6 X
 - level:: 1
-- includes:: WIP
+- includes:: [[Military Dock]]

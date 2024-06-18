@@ -1,5 +1,5 @@
 type:: #Nano
 
-- description:: WIP
+- description::
 - level:: 2
 - includes:: WIP
