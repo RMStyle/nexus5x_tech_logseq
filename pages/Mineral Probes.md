@@ -1,5 +1,5 @@
 type:: #Nano
 
 - description:: Gain 6 X stockpile every time you use [[EXPLORE]] .
-- level:: 1
+- level:: 2
 - includes::

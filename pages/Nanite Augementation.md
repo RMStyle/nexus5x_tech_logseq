@@ -2,4 +2,4 @@ type:: #Nano
 
 - description::
 - level:: 2
-- includes:: WIP
+- includes:: [[Nano-Assemblers]] [[Automated Laboratory]]

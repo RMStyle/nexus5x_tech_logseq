@@ -1,5 +1,5 @@
 type:: #Nano
 
-- description:: WIP
+- description:: +4 X income for your Empire
 - level:: 3
-- includes:: WIP
+- includes:: [[Trade Goods Factory]]

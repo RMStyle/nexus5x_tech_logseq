@@ -1,5 +1,5 @@
 type:: #Nano
 
-- description:: WIP
+- description:: All ships +1 X
 - level:: 3
-- includes:: WIP
+- includes:: [[Shield Capacitors]]
